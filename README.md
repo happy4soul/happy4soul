@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development and Data Structures
 - 🌱 Currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on web development related oppurtunities.
-- 🎓 Sophomore at SRM UNIVERSITY KTR
+- 🎓 Undergraduate at SRM UNIVERSITY KTR
 ## 🧰 Languages and Tools:
 
 <p align="center">
